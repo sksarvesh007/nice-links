@@ -15,7 +15,9 @@
 # SERVICES 
 1. https://www.litellm.ai/ 
 2. https://grafana.com/
-# DOCUMENTATIONS 
-1. https://docs.ragas.io/en/stable/
-
+3. https://www.firecrawl.dev/
+4. https://docs.ragas.io/en/stable/
 # RESEARCH PAPERS
+
+# PROJECTS TRY 
+1. https://www.youtube.com/watch?v=q8PAD9IS3Ig (ppt generation with voice over as well)
