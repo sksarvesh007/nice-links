@@ -9,4 +9,9 @@
 ## PLAYLISTS
 
 - [ ] https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
-- [ ] 
+
+# WEB ARTICLES 
+# COURSES
+# SERVICES 
+# DOCUMENTATIONS 
+
