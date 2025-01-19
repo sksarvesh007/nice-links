@@ -13,6 +13,9 @@
 # WEB ARTICLES 
 # COURSES
 # SERVICES 
+1. https://www.litellm.ai/ 
+2. https://grafana.com/
 # DOCUMENTATIONS 
+1. https://docs.ragas.io/en/stable/
 
 # RESEARCH PAPERS
