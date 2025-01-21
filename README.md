@@ -10,6 +10,7 @@
 ## PLAYLISTS
 
 - [ ] https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+- [Josh Starmer Machine Learning Playlist](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 
 # WEB ARTICLES 
 # COURSES
@@ -21,8 +22,10 @@
 # RESEARCH PAPERS
 1. [[2402.17764] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
 2. [[2003.08934] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)
+3. [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
 
 # PROJECTS TRY 
 1. https://www.youtube.com/watch?v=q8PAD9IS3Ig (ppt generation with voice over as well)
 2. [Build your own GPT from scratch](https://youtu.be/kCc8FmEb1nY)
+3. [Building the GPT Tokenizer from scratch](https://youtu.be/zduSFxRajkE)
 # RANDOM
